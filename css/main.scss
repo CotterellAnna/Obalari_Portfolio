@@ -121,7 +121,7 @@ header{
     ._image{
         flex: 1.5;   
         height: 100%;
-        background-image: url("/images/me.png"); 
+        background-image: url("../images/me.png"); 
         background-size: 110%;
         background-repeat: no-repeat;
         background-position-y: 0px;
@@ -245,7 +245,7 @@ footer{
     main{
         text-align: center;
         .self_info{
-            background-image: url("/images/me.png");
+            background-image: url("../images/me.png");
             background-repeat: no-repeat;
             background-position-x: center;
             background-position-y: center;
